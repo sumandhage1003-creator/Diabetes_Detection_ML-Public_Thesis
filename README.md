@@ -347,9 +347,7 @@ Diabetes-Detection-Using-ML/
 └── LICENSE
 ```
 
----
 
-## 👥 Contributors
 
 
 See the original repository for the project implementation and contribution details.

@@ -351,11 +351,6 @@ Diabetes-Detection-Using-ML/
 
 ## 👥 Contributors
 
-This research project credits the following contributors:
-
-- **Ehtesham Sana**
-- **Dr. Nadeem Akhtar**
-- **Dr. Hamid Ashraf**
 
 See the original repository for the project implementation and contribution details.
 
